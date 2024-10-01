@@ -1,0 +1,76 @@
+
+body{
+    background-color: aliceblue;
+    font-family:  sans-serif;
+}
+h1{
+    color: #10aba3;
+}
+h3{
+    color: greenyellow;
+}
+p{
+    color: gainsboro;
+    
+    
+    
+    
+}
+h2{
+    color: white;
+}
+h4{
+    color: white;
+    font-size: 30px;
+}
+
+
+button{
+    background-color: greenyellow;
+    border-radius: 5px;
+    color: white;
+    padding: 20px 120px 20px 120px;
+    border: 0;
+    font-size: 20px;
+}
+
+
+
+#madiha{
+
+    background-color: white;
+    border-radius: 5px;
+    padding:50px;
+    
+
+
+}
+#muheeb{
+    background-color: #189d94;
+    width:800px;
+    height: 300px;
+    
+    padding: 50px;
+    
+    
+
+
+}
+#minha{
+    background-color:  #10aba3;
+    width: 800px;
+    ;
+    height: 300px;
+    
+    padding:50px;
+    
+    
+
+
+}
+
+
+#fathima{
+    display: flex;
+    justify-content: center;
+}
