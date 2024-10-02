@@ -29,7 +29,7 @@ button{
     background-color: greenyellow;
     border-radius: 5px;
     color: white;
-    padding: 20px 120px 20px 120px;
+    padding: 10px 60px 10px 60px;
     border: 0;
     font-size: 20px;
 }
@@ -38,7 +38,7 @@ button{
 
 #madiha{
 
-    background-color: white;
+    
     border-radius: 5px;
     padding:50px;
     
@@ -47,7 +47,7 @@ button{
 }
 #muheeb{
     background-color: #189d94;
-    width:800px;
+    width:200px;
     height: 300px;
     
     padding: 50px;
@@ -58,7 +58,7 @@ button{
 }
 #minha{
     background-color:  #10aba3;
-    width: 800px;
+    width: 200px;
     ;
     height: 300px;
     
@@ -72,5 +72,5 @@ button{
 
 #fathima{
     display: flex;
-    justify-content: center;
+    
 }
